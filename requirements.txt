@@ -1,0 +1,10 @@
+requests
+loguru
+selenium
+webdriver-manager
+fake-useragent
+undetected-chromedriver
+pandas
+aiohttp
+python-dotenv
+tkinter
